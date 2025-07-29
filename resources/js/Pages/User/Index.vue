@@ -3,9 +3,6 @@ import LandingLayout from '@/Layouts/LandingLayout.vue'
 
 defineOptions({ layout: LandingLayout })
 </script>
-
 <template>
-  <div>
-    <h1>Welcome Inertia</h1>
-  </div>
+<h1>Ini User</h1>
 </template>
